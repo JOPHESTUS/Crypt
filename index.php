@@ -86,8 +86,8 @@
    <label  for="msg"><h4>Message to be decrypted</h4>  <textarea  name="msg" id="msg" cols="50" rows="6"></textarea>
   <br> <br> <a class="button" type="submit" href="#" href="javascript:{}" onclick="document.getElementById('decrypt').submit(); return false;">Submit</a>  
 </form>
-    
-  <h5><a href="http://github.com/JOPHESTUS/Crypt"><i class="fa fa-github"></i> I'm open source!</h5>
+    <br><br>
+  <h5><a class="button" href="http://github.com/JOPHESTUS/Crypt"><i class="fa fa-github"></i> I'm open source!</a></h5>
 					
 					
 					</div>
